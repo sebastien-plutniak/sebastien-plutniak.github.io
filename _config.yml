@@ -1,12 +1,21 @@
 title:            Sébastien Plutniak
-description:      Sébastien Plutniak's research site
+tagline:          Research homepage
+description:      Sébastien Plutniak's research homepage
 copyright:        S. Plutniak
+author:
+  surname: Plutniak
+  name:    Sébastien
+  url:     https://sebastien-plutniak.github.io
+  github:  sebastien-plutniak
+  orcid: 0000-0002-6674-3806
+
 url: https://sebastien-plutniak.github.io # add your custom site url (format: https://example.com)
 baseurl: ''
 
 future:      false  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
+
 gems:
   - jekyll-sitemap
   - jekyll-paginate
