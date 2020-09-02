@@ -18,7 +18,7 @@ markdown:    kramdown
 
 gems:
   - jekyll-sitemap
-  - jekyll-paginate
+#  - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
 
@@ -29,7 +29,7 @@ sass:
 permalink: /:categories/:year-:month-:day/:title.html
 
 # Amount of post to show on home page
-paginate: 4
+#paginate: 4
 
 #kramdown:
 #  input: GFM
