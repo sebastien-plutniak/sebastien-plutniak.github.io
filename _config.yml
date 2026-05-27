@@ -9,18 +9,18 @@ author:
   github:  sebastien-plutniak
   orcid: 0000-0002-6674-3806
 
-url: https://sebastien-plutniak.github.io # add your custom site url (format: https://example.com)
+url: https://sebastien-plutniak.github.io # 
 baseurl: ''
 
 future:      false  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
 
-gems:
+plugins:
   - jekyll-sitemap
 #  - jekyll-paginate
   - jekyll-gist
-  - jekyll-feed
+  #~ - jekyll-feed
 
 sass:
   sass_dir: _sass
